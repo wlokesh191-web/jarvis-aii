@@ -1,0 +1,7 @@
+{
+  "name": "J.A.R.V.I.S.",
+  "description": "A high-tech, voice-enabled AI assistant interface inspired by Tony Stark's legendary JARVIS system, featuring real-time audio interaction and a futuristic HUD.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
